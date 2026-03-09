@@ -1,0 +1,40 @@
+.lista {
+    max-width: 70%;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.convidado {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+.destaque {
+    font-weight: bold;
+}
+
+.btn-salvar {
+    padding: 5px 10px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    animation: 3s pulse infinite;
+}
+
+@keyframes pulse {
+    0% {
+        background-color: rgb(23, 200, 123);
+    }
+    50% {
+        background-color: rgb(31, 191, 116);
+    }
+    100% {
+        background-color: rgb(14, 188, 227);
+    }
+}
