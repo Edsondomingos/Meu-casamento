@@ -16,5 +16,5 @@ Currently, two official plugins are available:
 * execute with "npm run dev"
 
     THIS PROJECT IS AVAILABLE IN
-    [SITE](www.listameucasamento.vercel.app)
+    [SITE](http://www.listameucasamento.vercel.app)
 
